@@ -291,7 +291,7 @@ class CAR(Platforms):
   )
   VOLKSWAGEN_PASSAT_NMS = VolkswagenPQPlatformConfig(
     [VWCarDocs("Volkswagen Passat NMS 2017-22")],
-    VolkswagenCarSpecs(mass=1680, wheelbase=2.80,),
+    VolkswagenCarSpecs(mass=1790, wheelbase=2.80,),
     chassis_codes={"A3"},
     wmis={WMI.VOLKSWAGEN_USA_CAR},
   )
