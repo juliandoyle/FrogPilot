@@ -293,7 +293,7 @@ class CAR(Platforms):
     [VWCarDocs("Volkswagen Passat NMS 2017-22")],
     VolkswagenCarSpecs(mass=1790, wheelbase=2.80,),
     chassis_codes={"A3"},
-    wmis={WMI.VOLKSWAGEN_USA_CAR},
+    wmis={WMI.VOLKSWAGEN_EUROPE_CAR},
   )
   VOLKSWAGEN_POLO_MK6 = VolkswagenMQBPlatformConfig(
     [
